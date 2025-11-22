@@ -1,4 +1,5 @@
-
+//Exersice 6 Bruit Force 
+//Uses a while loop to simulate password entry with a limit of 5 attempts
 
 #include <iostream>
 using namespace std;
@@ -28,4 +29,5 @@ int main() {
     // If all attempts are used
     cout << "Too many attempts. Authorities alerted!";
 }
+
 
