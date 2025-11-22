@@ -1,3 +1,5 @@
+
+
 #include <iostream>
 using namespace std;
 
@@ -26,3 +28,4 @@ int main() {
     // If all attempts are used
     cout << "Too many attempts. Authorities alerted!";
 }
+
