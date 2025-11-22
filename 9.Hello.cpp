@@ -1,3 +1,6 @@
+//Exercise 9: Hello
+//Defines and calls a simple function that prints 'Hello' to the console.
+
 #include <iostream>
 using namespace std;
 
@@ -14,3 +17,4 @@ int main(){
 
     return 0;
 }
+
