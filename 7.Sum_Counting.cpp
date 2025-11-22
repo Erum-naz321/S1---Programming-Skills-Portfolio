@@ -1,3 +1,6 @@
+//Exercise 7 : Sum Counting
+//Demonstrates several types of for loops counting in different ranges and increments.
+
 #include <iostream>
 using namespace std;
 
@@ -27,3 +30,4 @@ int main() {
     for (int i = 100; i <= 200; i += 5)
         cout << i << " ";
 }
+
