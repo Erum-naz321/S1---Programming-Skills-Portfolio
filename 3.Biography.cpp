@@ -1,3 +1,6 @@
+// Exercise 3: Biography
+// This program asks the user for their personal information and displays it.
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -25,3 +28,4 @@ int main() {
     // Output everything at once
     cout << name << "\n" << hometown << "\n" << age;
 }
+
