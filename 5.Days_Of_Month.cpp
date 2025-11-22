@@ -1,3 +1,7 @@
+// Exercise 5: Days of the Month
+// This program tells how many days are in a month using a switch statement.
+
+
 #include <iostream>
 using namespace std;
 
@@ -30,3 +34,4 @@ int main() {
             cout << "Invalid month!";
     }
 }
+
