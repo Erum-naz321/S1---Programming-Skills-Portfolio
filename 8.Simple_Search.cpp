@@ -1,3 +1,5 @@
+//Exercise 8: Simple Search
+//Searches a string array for a given name, demonstrating arrays and string comparison
 #include <iostream>
 #include <string>
 using namespace std;
@@ -19,3 +21,4 @@ int main() {
 
     cout << "Not found.";
 }
+
