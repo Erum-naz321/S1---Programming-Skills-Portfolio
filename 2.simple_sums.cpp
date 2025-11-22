@@ -1,5 +1,6 @@
 // Exercise 2: Simple Sums
 // This program adds two integers and displays the total
+
 #include <iostream>
 using namespace std;
 
@@ -16,4 +17,5 @@ int main() {
 
     return 0;
 }
+
 
