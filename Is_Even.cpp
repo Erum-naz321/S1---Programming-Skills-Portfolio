@@ -23,5 +23,7 @@ int main() {
 
     // Print the returned message
     cout << checkEven(num);
+    return 0;
 }
+
 
