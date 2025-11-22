@@ -1,3 +1,6 @@
+// Exercise 4: Primitive Quiz
+// This program asks a simple geography question
+
 #include <iostream>   
 #include <string>     
 using namespace std;
@@ -17,3 +20,4 @@ int main() {
     else
         cout << "Wrong!";     // Output displayed when the answer is incorrect
 }
+
