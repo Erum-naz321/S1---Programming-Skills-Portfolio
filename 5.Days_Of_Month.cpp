@@ -33,5 +33,7 @@ int main() {
         default:
             cout << "Invalid month!";
     }
+    return() 0;
 }
+
 
