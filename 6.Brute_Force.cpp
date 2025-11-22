@@ -28,7 +28,9 @@ int main() {
 
     // If all attempts are used
     cout << "Too many attempts. Authorities alerted!";
+    return 0;
 }
+
 
 
 
