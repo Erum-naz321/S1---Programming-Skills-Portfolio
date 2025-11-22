@@ -1,3 +1,6 @@
+//Exercise 10: Is It Even
+//Uses a function to determine if a number is even or odd and returns a descriptive message.
+
 #include <iostream>
 using namespace std;
 
@@ -21,3 +24,4 @@ int main() {
     // Print the returned message
     cout << checkEven(num);
 }
+
