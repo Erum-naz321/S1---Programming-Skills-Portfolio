@@ -19,8 +19,9 @@ int main() {
         cout << "Correct!";   // Output displayed when the answer is correct
     else
         cout << "Wrong!";     // Output displayed when the answer is incorrect
-return() 0;
+return 0;
 }
+
 
 
 
