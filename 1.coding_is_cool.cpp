@@ -9,8 +9,9 @@ using namespace std;
 // Fill in the blanks in the code below so the program outputs "Coding is Cool" to the console.
 int main() {
     cout << "Coding is Cool" << endl;   // Output message to the console
-    return ();   // End of program
+    return 0;   // End of program
 }
+
 
 
 
